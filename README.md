@@ -1,4 +1,4 @@
-# Analisis-Kerentanan-Banjir-dan-Tanah-Longsor
+# Analisis Kerentanan Banjir dan Tanah Longsor
 Project Mata Kuliah Data Wrangling Sains Data UNESA X Statistika UNJ
 Anggota Kelompok 2
 Ananda Keissa Az Zahra (24031554051), Sains Data UNESA
