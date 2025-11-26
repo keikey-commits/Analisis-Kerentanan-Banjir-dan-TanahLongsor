@@ -1,5 +1,8 @@
 # Analisis-Kerentanan-Banjir
 Project Mata Kuliah Data Wrangling Sains Data UNESA X Statistika UNJ
+Anggota Kelompok 2
+Ananda Keissa Az Zahra (24031554051), Sains Data UNESA
+Anggi Nur Zavira (1314622009), Statistika UNJ
 
 ## Tujuan Proyek:
 1. Mengevaluasi tingkat kerentanan bencana di Indonesia secara menyeluruh dengan menggabungkan data kerusakan, korban bencana, data penduduk, kejadian bencana, dan jumlah topografi suatu daerah.
