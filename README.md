@@ -29,38 +29,38 @@ Project Mata Kuliah Data Wrangling Sains Data UNESA X Statistika UNJ
 ## Grafik Banjir
 ### Histogram Total Kejadian
 
-<img width="445" height="316" alt="Image" src="https://github.com/user-attachments/assets/241b9360-e851-49d6-8030-4a5ea1dc95e2" />
+<img width="445" height="316" alt="Image" src="https://github.com/user-attachments/assets/bde27601-603b-4ed4-9fc1-13102a886634" />
 
 Dari histogram distribusi Total_Kejadian, terlihat bahwa pola kejadian bencana di Indonesia sangat tidak merata. Ketimpangan paling besar terlihat pada kelompok provinsi dengan kejadian lebih dari 60 kali. Hanya beberapa provinsi yang masuk kategori ini, dan dua di antaranya  Aceh dan Sumatera Utara yang muncul sebagai provinsi dengan jumlah kejadian tertinggi, masing-masing mencapai sekitar 97 dan 112 kejadian.
 
 ### Histogram Total Meninggal
 
-<img width="467" height="316" alt="Image" src="https://github.com/user-attachments/assets/d2456463-66dd-4576-9cfe-d0201a3ab029" />
+<img width="467" height="316" alt="Image" src="https://github.com/user-attachments/assets/ab546595-d65b-4c93-aa30-99dd7a2f5301" />
 
 Distribusi korban meninggal menunjukkan bahwa sebagian besar provinsi tidak mencatat fatalitas atau hanya mencatat satu sampai dua korban meninggal. Kelompok dengan nilai 0–1 korban merupakan kelompok yang paling dominan, mencakup lebih dari separuh provinsi. Hanya satu provinsi yang mencapai angka tertinggi, yakni sekitar 10 korban meninggal, sehingga terlihat jelas sebagai outlier. Hal ini menunjukkan bahwa meskipun banjir cukup sering terjadi, fatalitas tinggi bukanlah kondisi umum di sebagian besar wilayah Indonesia.
 
 ### Histogram Total Luka
 
-<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/c77c7590-98ec-4a4c-926a-15086a6372ca" />
+<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/6395a263-9eb0-4336-a67a-cf73250de349" />
 
 Sebaran korban luka jauh lebih ekstrem. Hampir semua provinsi memiliki korban luka rendah, berada pada rentang 0–50 orang, namun terdapat satu provinsi dengan lebih dari 4.000 korban luka, menarik distribusi ke kanan. Hal ini mengindikasikan adanya satu kejadian besar di wilayah tertentu yang berdampak luar biasa besar pada populasi.
 
 ### Histogram Total Rumah Terendam
 
-<img width="487" height="316" alt="Image" src="https://github.com/user-attachments/assets/8948a406-1829-4b6f-845d-a78746a92de6" />
+<img width="487" height="316" alt="Image" src="https://github.com/user-attachments/assets/13c87e20-25eb-4cd1-9a7a-c8ab4471f9c8" />
 
 Pada variabel Total_Rumah_Terendam, sebarannya juga sangat bervariasi. Sekitar 18–20 provinsi berada pada rentang 0–20.000 rumah terendam, yang berarti mayoritas wilayah mengalami dampak banjir yang relatif masih terkendali.
 Namun, terdapat satu provinsi yang mengalami dampak jauh lebih besar dengan lebih dari 100.000 rumah terendam. Nilai yang sangat tinggi ini merupakan indikasi adanya kejadian banjir besar, kemungkinan berkaitan dengan curah hujan ekstrim atau kondisi hidrologis yang buruk pada wilayah tersebut.
 
 ### Heatmap Korelasi Kejadian Banjir
 
-<img width="959" height="730" alt="Image" src="https://github.com/user-attachments/assets/4660a332-39bd-4ff9-af79-cc85585bea7a" />
+<img width="970" height="730" alt="Image" src="https://github.com/user-attachments/assets/392c5cde-0dee-4ed5-af3f-c8fed411f9d1" />
 
 Kejadian banjir berkorelasi kuat dengan rumah terendam, kerusakan fasum, dan korban meninggal, sehingga frekuensi banjir sangat berpengaruh pada tingkat kerusakan. Variabel luka menunjukkan korelasi rendah.
 
 ### Scatter Plot
 
-<img width="597" height="455" alt="Image" src="https://github.com/user-attachments/assets/c28973f1-3c86-4d48-8e82-694c1c39b046" />
+<img width="597" height="455" alt="Image" src="https://github.com/user-attachments/assets/5472fc9a-f89d-4bb2-8d6a-1a0452bb9399" />
 
 Scatter plot di atas menunjukkan hubungan antara total kejadian banjir dan total rumah terendam menunjukkan pola kecenderungan yang jelas bahwa semakin tinggi frekuensi banjir pada suatu wilayah, semakin besar pula jumlah rumah yang terdampak. Meskipun sebaran titik data terlihat variatif, terdapat tren peningkatan yang konsisten terutama pada wilayah yang mengalami lebih dari 50 kejadian banjir, di mana jumlah rumah terendam dapat mencapai puluhan ribu hingga lebih dari seratus ribu unit. Kehadiran beberapa outlier dengan dampak yang sangat besar mengindikasikan bahwa karakteristik fisik wilayah—seperti kepadatan permukiman, kondisi topografi dataran rendah, dan minimnya infrastruktur penanganan banjir—berperan penting dalam memperparah skala kerusakan. Secara keseluruhan, grafik ini memperkuat bahwa frekuensi banjir memiliki keterikatan kuat dengan besarnya dampak fisik yang dialami masyarakat.
 
