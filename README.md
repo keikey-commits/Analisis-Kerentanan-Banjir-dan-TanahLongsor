@@ -79,19 +79,19 @@ Grafik pie di atas, menunjukkan persentase kategori kerentanan terhadap banjir, 
 ## Grafik Tanah Longsor
 ### Histogram Total Kejadian
 
-<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/e50569b1-549f-4c27-8813-a8f92f9e102d" />
+<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/6424a0e0-dcb2-4f20-b8e3-6746181a1385" />
 
 Hasil visualisasi distribusi Total_Kejadian menunjukkan bahwa sebagian besar wilayah hanya mengalami kejadian longsor dalam jumlah yang relatif kecil, yaitu pada rentang 0–20 kejadian. Distribusi ini tampak sangat miring ke kanan karena terdapat beberapa wilayah yang menjadi outlier dengan jumlah kejadian mencapai lebih dari 100 hingga mendekati 200. Hal ini menunjukkan bahwa meskipun longsor terjadi di banyak wilayah, hanya sedikit wilayah yang mengalami kejadian dalam skala yang jauh lebih tinggi dibanding wilayah lainnya.
 
 ### Histogram Total Meninggal
 
-<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/97bd0a77-797c-4cc2-9191-94f99971f79f" />
+<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/dfdf2513-e508-46a2-bce5-7785f640a37a" />
 
 Pada variabel Total_Meninggal, sebagian besar wilayah tercatat tidak mengalami korban jiwa atau hanya memiliki 1–5 korban. Distribusinya juga sangat skewed ke kanan karena terdapat beberapa kasus ekstrim dengan jumlah korban meninggal mencapai 30–40 orang. Artinya, kejadian longsor yang menimbulkan korban jiwa besar merupakan kejadian yang jarang terjadi, namun memberikan kontribusi signifikan terhadap ketidakseimbangan distribusi data
 
 ### Histogram Total Luka
 
-<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/03f0c29b-6b4c-4e7b-81ce-e770f88dbb47" />
+<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/46364246-3ad2-4696-bd00-1a0dc2ce50b7" />
 
 Distribusi Total_Terluka menunjukkan pola yang serupa, di mana mayoritas wilayah mencatat korban luka dalam jumlah kecil, umumnya di bawah 50 orang. Namun terdapat satu outlier ekstrim dengan korban luka mencapai sekitar 600 orang, yang menunjukkan adanya satu kejadian longsor besar yang tidak lazim dibandingkan wilayah lainnya. Kondisi ini mengindikasikan bahwa meskipun sebagian besar longsor berdampak ringan, terdapat kejadian tertentu yang menimbulkan dampak besar.
 
@@ -103,7 +103,7 @@ Pada variabel Total_Rumah_Rusak, sebagian besar wilayah mengalami kerusakan ruma
 
 ### Heatmap Korelasi Kejadian Tanah Longsor
 
-<img width="959" height="730" alt="Image" src="https://github.com/user-attachments/assets/46c7b71d-a30b-4fe6-98b2-f5eb4ab9da92" />
+<img width="970" height="730" alt="Image" src="https://github.com/user-attachments/assets/d6b97453-9216-475b-b88b-2d2ce0b626be" />
 
 Kejadian longsor menunjukkan korelasi sangat kuat dengan kerusakan rumah dan fasilitas umum, sehingga semakin banyak kejadian maka semakin besar dampaknya. Variabel luka memiliki hubungan yang lemah dengan variabel lain.
 
@@ -115,13 +115,13 @@ Berdasarkan scatter plot di atas, menunjukkan hubungan antara total kejadian tan
 
 ### Total Kejadian per provinsi
 
-<img width="850" height="578" alt="Image" src="https://github.com/user-attachments/assets/f32182b1-50b4-42b9-b332-dfc9687c6296" />
+<img width="850" height="578" alt="Image" src="https://github.com/user-attachments/assets/287046a9-9027-43da-9ae3-7df988f46def" />
 
 Grafik batang di atas, menunjukkan distribusi jumlah kejadian tanah longsor per provinsi, dan pola yang muncul tampak lebih mencolok dibanding grafik banjir. Jawa Barat mendominasi secara signifikan dengan jumlah kejadian longsor yang melampaui 200 kejadian, menjadikannya provinsi dengan tingkat kerentanan tertinggi terhadap longsor di Indonesia.
 
 ### Pie Chart Kerentanan
 
-<img width="504" height="504" alt="Image" src="https://github.com/user-attachments/assets/02d01a9e-ee17-42b6-9f58-2c0ec9e2fb28" />
+<img width="504" height="504" alt="Image" src="https://github.com/user-attachments/assets/37e4bfa6-df0e-42fe-a4b9-cfcdf095e5f0" />
 
 Grafik pie di atas, menunjukkan persentase kategori kerentanan terhadap tanah longsor. Secara keseluruhan, pola sebarannya serupa dengan banjir, di mana kategori rendah mendominasi hingga 87,5% wilayah. Hal ini menunjukkan bahwa mayoritas daerah yang dianalisis memiliki tingkat risiko longsor yang relatif kecil dan cenderung stabil. Namun, berbeda dengan banjir, proporsi kategori sedang relatif lebih besar, yaitu sekitar 9,4%, menunjukkan bahwa terdapat lebih banyak wilayah yang berada pada tingkat kewaspadaan menengah terhadap potensi longsor. Adapun kategori tinggi berada pada angka 3,1%, yang meskipun kecil, tetap menunjukkan adanya wilayah tertentu yang sangat rentan terhadap longsor, kemungkinan akibat kondisi lereng curam, jenis tanah rawan gerakan, serta intensitas hujan tinggi. Grafik ini menegaskan bahwa meskipun sebagian besar wilayah aman, mitigasi bencana tetap diperlukan terutama pada kategori sedang dan tinggi yang memiliki potensi risiko lebih besar.
 
